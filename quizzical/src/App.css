@@ -255,6 +255,20 @@ hr{
     transform: scale(1.02);
     outline: none;
 }
+.results-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+
+    margin-top: 2rem;
+}
+
+.score-text{
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: #293264;
+}
 
 /* BACKGROUND BLOBS */
 
